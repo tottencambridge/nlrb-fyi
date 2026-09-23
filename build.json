@@ -1,13 +1,16 @@
 {
   "board_pages": 5,
-  "built_at": "2026-09-22T12:04:56+00:00",
-  "cases": 517895,
-  "employers": 217236,
+  "brands": 147,
+  "built_at": "2026-09-23T00:16:59+00:00",
+  "cases": 517909,
+  "employers": 217245,
   "explainers": 6,
-  "html": 218042,
+  "groups": 10,
+  "html": 233482,
+  "merged_names": 14982,
   "regions": 26,
   "search_shards": 960,
   "states": 58,
-  "tallies": 1571,
-  "tallies_on_map": 1535
+  "tallies": 28717,
+  "tallies_on_map": 27543
 }
